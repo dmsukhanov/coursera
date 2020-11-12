@@ -1,1 +1,1 @@
-# coursera. Several scripts and tasks with training
+# Several scripts and tasks with training
